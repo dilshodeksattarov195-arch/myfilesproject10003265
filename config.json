@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderppdate",
+        "uuid": 23609215,
+        "checksum": "pfjl2"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
